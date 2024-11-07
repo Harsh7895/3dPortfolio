@@ -29,10 +29,13 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import eyewings from "./eyewings.png";
-import xcrypto from "./xcrypto.png";
+import devoverflow from "./devoverflow.png";
+import plura from "./plura.png";
+import avatar from "./avatar.jpg";
 import videoHub from "./video-hub.png";
 
 export {
+  devoverflow,
   logo,
   backend,
   creator,
@@ -59,8 +62,9 @@ export {
   starbucks,
   tesla,
   eyewings,
-  xcrypto,
   videoHub,
   webDeveloper,
-  videoEdit
+  videoEdit,
+  plura,
+  avatar,
 };
